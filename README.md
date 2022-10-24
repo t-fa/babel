@@ -57,7 +57,7 @@ Our top sponsors are shown below! [[Become a sponsor](https://opencollective.com
 
 ## Intro
 
-Babel is a tool that helps you write code in the latest version of JavaScript. When your supported environments don't support certain features natively, Babel will help you compile those features down to a supported version.
+Babel is a tool that helps you write code in the latest version of JavaScript. When your supported environments don't support certain features natively, Babel will help you compile those features down to a supported version. From time to time, [TC39](https://tc39.es), the committee responsible for maintaining the features/syntax of JavaScript will release new features/syntax, which may pose a compatibility issue for older browsers or other environments. Babel allows developers to use the latest JS features without having to worry about compatibility issues by compiling newer syntax into older, more widely compatible syntax.
 
 **In**
 
